@@ -1,6 +1,6 @@
 # Securing API Keys
 
-Deployment Link: [Rendor](https://swe-5-3-env-proxy-server-zu1ka.onrender.com)
+Deployment Link: [Rendor](https://gifrendor.onrender.com)
 
 In this assignment, you will be given a working frontend application that attempts to fetch gifs. You'll use Express as a middleman for API requests, allowing us to deploy the project while keeping the API key secure.
 
